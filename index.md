@@ -1,5 +1,3 @@
-Hi,
-
 ## Welcome to My Blog
 
 I'm Dharani Palraj 👋  
