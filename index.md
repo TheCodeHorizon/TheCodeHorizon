@@ -1,5 +1,3 @@
-# Welcome to My Blog
-
 Hi, I'm Dharani Palraj 👋  
 
 I am a Microsoft Dynamics 365 Business Central Technical Consultant with hands-on experience in C/AL,AL and Power BI development, integrations, and production support.
