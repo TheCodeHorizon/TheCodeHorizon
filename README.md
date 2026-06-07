@@ -84,7 +84,7 @@ Previously worked as an ERP Technical Consultant, handling development, customiz
 
 I share my learning and practical insights on Business Central through my blog:
 
-https://thecodehorizon.github.io
+https://thecodehorizon.github.io/TheCodeHorizon/
 
 ---
 
